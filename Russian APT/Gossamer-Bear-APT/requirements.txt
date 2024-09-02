@@ -1,0 +1,6 @@
+pyautogui==0.9.53
+pyvirtualdisplay==2.2
+requests==2.26.0
+cryptography==36.0.0
+secrets==1.0.2
+

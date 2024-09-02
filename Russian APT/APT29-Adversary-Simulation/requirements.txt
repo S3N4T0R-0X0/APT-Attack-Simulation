@@ -1,0 +1,5 @@
+pyautogui
+pyvirtualdisplay
+requests
+pycryptodome
+

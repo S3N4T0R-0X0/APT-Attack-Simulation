@@ -1,0 +1,4 @@
+pyautogui
+pyvirtualdisplay
+requests
+cryptography
