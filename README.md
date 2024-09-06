@@ -12,7 +12,7 @@ Disclaimer: This is for research, awareness, and educational purposes, I am not 
 
 These are all the names of the APT groups, and I simulated one attack for each group.
 
-      `RUSSIA`
+ `RUSSIA`
 
 1. Cozy Bear APT29
 2. Fancy Bear APT28
