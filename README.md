@@ -14,17 +14,17 @@ These are all the names of the APT groups, and I simulated one attack for each g
 
 ![imageedit_2_2632705696](https://github.com/user-attachments/assets/e60d08fd-a210-4053-b0be-87163bfadfae)
 
- `RUSSIA`                                          |        `China`
-
-1. Cozy Bear APT29                                    1.
-2. Fancy Bear APT28
-3. Energetic Bear
-4. Berserk Bear
-5. Gossamer Bear
-6. Voodoo Bear APT44
-7. Ember Bear
-8. Venomous Bear
-9. Primitive Bear
+`RUSSIA`----------------------------------`China`-----------------------------------------------------------------------------------------------
+                                 
+1. Cozy Bear APT29 --------------| 1. Mustang Panda                    
+2. Fancy Bear APT28 -------------| 2. Goblin Panda
+3. Energetic Bear----------------|
+4. Berserk Bear------------------|
+5. Gossamer Bear-----------------|
+6. Voodoo Bear APT44-------------|
+7. Ember Bear--------------------|
+8. Venomous Bear-----------------|
+9. Primitive Bear----------------|
 
 All of this adversary simulation is powered by Bear-C2.
 https://github.com/S3N4T0R-0X0/BEAR
