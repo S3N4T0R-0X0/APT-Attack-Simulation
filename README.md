@@ -1,5 +1,6 @@
 # APT Attack Simulation
-This repository is a compilation of all Russian, Chinese, Iranians and North Koreans APT simulations that target many vital sectors,both private and governmental. The simulation includes written tools, C2 servers, backdoors, exploitation techniques, stagers, bootloaders, and many other tools that attackers might have used in actual attacks. These tools and TTPs  are simulated here.
+This repository is a compilation of all Russian, Chinese, Iranian and North Koreans APT simulations that target many vital sectors,both private and governmental. The simulation includes written tools, C2 servers, backdoors, exploitation techniques, stagers, bootloaders, and many other tools that attackers might have used in actual attacks. These tools and TTPs  are simulated here. I relied on Palo Alto Networks Unit 42, Kaspersky, Microsoft, Cisco, Trellix, CrowdStrike and WithSecure to figure out the details to make this simulations
+
 
 
 ![photo_2024-09-02_10-02-44](https://github.com/user-attachments/assets/a6cc6bb5-aabe-4f75-bad5-c35fb6016e75)
@@ -14,17 +15,42 @@ These are all the names of the APT groups, and I simulated one attack for each g
 
 ![imageedit_2_2632705696](https://github.com/user-attachments/assets/e60d08fd-a210-4053-b0be-87163bfadfae)
 
-`RUSSIA`___________________________________`China`
+`RUSSIA`
+1. Cozy Bear APT29   ✅️                                      
+2. Fancy Bear APT28  ✅️
+3. Energetic Bear    ✅️
+4. Berserk Bear      ✅️
+5. Gossamer Bear     ✅️
+6. Voodoo Bear APT44 ✅️
+7. Ember Bear        ✅️
+8. Venomous Bear     ✅️
+9. Primitive Bear    ✅️
 
-1. Cozy Bear APT29___________________ 1. Mustang Panda                                         
-2. Fancy Bear APT28__________________ 2. Goblin Panda
-3. Energetic Bear____________________ 3. Anchor Panda
-4. Berserk Bear______________________ 4. Deep Panda
-5. Gossamer Bear_____________________ 5. Samurai Panda 
-6. Voodoo Bear APT44
-7. Ember Bear
-8. Venomous Bear
-9. Primitive Bear
+`China`
+1. Mustang Panda                    
+2. Goblin Panda
+3. Anchor Panda
+4. Deep Panda
+5. Samurai Panda
+6. Phantom Panda
+7. SUNRISE PANDA
+8. Ethereal Panda
+
+
+`North Korea`
+1. Stardust Chollima
+2. Silent Chollima
+3. Ricochet Chollima
+4. Velvet Chollima
+5. Labyrinth Chollima 
+
+`Iran`
+1. Helix Kitten
+2. Clever Kitten
+3. Static Kitten
+4. Tracer Kitten
+5. Nemesis Kitten
+6. Spectral Kitten
 
 All of this adversary simulation is powered by Bear-C2.
 https://github.com/S3N4T0R-0X0/BEAR
