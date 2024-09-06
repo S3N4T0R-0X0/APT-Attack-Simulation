@@ -12,8 +12,8 @@ Disclaimer: This is for research, awareness, and educational purposes, I am not 
 
 These are all the names of the APT groups, and I simulated one attack for each group.
 
-![photo_2024-09-06_05-06-33](https://github.com/user-attachments/assets/32ed796f-c42f-4eb5-94bd-f424cc340fdd)
 
+![imageedit_2_2632705696](https://github.com/user-attachments/assets/e60d08fd-a210-4053-b0be-87163bfadfae)
 
  `RUSSIA`
 
