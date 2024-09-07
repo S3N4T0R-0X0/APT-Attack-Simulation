@@ -15,7 +15,7 @@ These are all the names of the APT groups, and I simulated one attack for each g
 
 ![imageedit_2_2632705696](https://github.com/user-attachments/assets/e60d08fd-a210-4053-b0be-87163bfadfae)
 
-`RUSSIA`
+`RUSSIA`🇷🇺️
 1. Cozy Bear APT29   ✅️                                      
 2. Fancy Bear APT28  ✅️
 3. Energetic Bear    ✅️
@@ -25,8 +25,10 @@ These are all the names of the APT groups, and I simulated one attack for each g
 7. Ember Bear        ✅️
 8. Venomous Bear     ✅️
 9. Primitive Bear    ✅️
+ 
+## To be continued...
 
-`China`
+`China`🇨🇳️
 1. Mustang Panda                    
 2. Goblin Panda
 3. Anchor Panda
@@ -37,14 +39,14 @@ These are all the names of the APT groups, and I simulated one attack for each g
 8. Ethereal Panda
 
 
-`North Korea`
+`North Korea`🇰🇵️
 1. Stardust Chollima
 2. Silent Chollima
 3. Ricochet Chollima
 4. Velvet Chollima
 5. Labyrinth Chollima 
 
-`Iran`
+`Iran`🇮🇷️
 1. Helix Kitten
 2. Clever Kitten
 3. Static Kitten
@@ -54,7 +56,6 @@ These are all the names of the APT groups, and I simulated one attack for each g
 
 All of this adversary simulation is powered by Bear-C2.
 https://github.com/S3N4T0R-0X0/BEAR
-
 ![imageedit_4_5482104706](https://github.com/S3N4T0R-0X0/Bear/assets/121706460/a43fdb26-c4d6-4b3e-b494-baed4c4b137d)
 
 Disclaimer: This is for research, awareness, and educational purposes, I am not responsible if anyone uses this technique for illegal purposes.
