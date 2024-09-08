@@ -12,8 +12,8 @@ This repository is a compilation of all Russian, Chinese, Iranian and North Kore
 
 These are all the names of the APT groups, and I simulated one attack for each group.
 
+![photo_2024-09-07_20-05-46](https://github.com/user-attachments/assets/361596c1-5fdc-4f58-b91f-80507feccfd3)
 
-![imageedit_2_2632705696](https://github.com/user-attachments/assets/e60d08fd-a210-4053-b0be-87163bfadfae)
 
 `RUSSIA`🇷🇺️
 1. Cozy Bear APT29   ✅️                                      
