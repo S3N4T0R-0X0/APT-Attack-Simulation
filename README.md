@@ -34,7 +34,7 @@ These are all the names of the APT groups, and I simulated one attack for each g
 4. Deep Panda
 5. Samurai Panda
 6. Phantom Panda
-7. SUNRISE PANDA
+7. Sunrise Panda
 8. Ethereal Panda
 
 
