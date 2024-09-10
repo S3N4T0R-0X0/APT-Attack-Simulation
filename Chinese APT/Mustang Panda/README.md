@@ -6,4 +6,11 @@ This is a simulation of attack by (Mustang Panda) APT group targeting government
 
 This attack included several stages including redirect to a Visual Studio Code web environment that is connected to the compromised machine. They are then permitted to execute commands and scripts, and to create new files on the infected machine, Stately Taurus used this technique to deliver malware to infected environments, perform reconnaissance and exfiltrate sensitive data. To establish constant access to the reverse shell, the attacker created persistence for a script named (startcode.bat) using a scheduled task that is responsible for starting the shell.
 
+1. Use Visual Studio Code's reverse shell to execute arbitrary code and deliver additional payloads.
+
 ![imageedit_2_2412587919](https://github.com/user-attachments/assets/ccc11e78-40c9-4573-bb3f-1854e0058a0d)
+
+## The first stage (delivery technique)
+
+
+
