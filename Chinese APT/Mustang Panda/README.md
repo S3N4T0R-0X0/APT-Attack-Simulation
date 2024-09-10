@@ -11,7 +11,8 @@ This attack included several stages including redirect to a Visual Studio Code w
 ![imageedit_2_2412587919](https://github.com/user-attachments/assets/ccc11e78-40c9-4573-bb3f-1854e0058a0d)
 
 ## The first stage (delivery technique)
-In the beginning, I downloaded VS Code on Windows Target Machine, then I logged in to my GitHub account in the browser, and through it I logged in to my VScode account.
+
+To abuse Visual Studio Code for malicious purposes, an attacker can use the portable version of code.exe (the executable file for Visual Studio Code), or an already installed version of the software. By running the command code.exe tunnel, an attacker receives a link that requires them to log into GitHub with their own account, In the beginning i downloaded VScode on Windows Target Machine, then I logged in to my GitHub account in the browser, and through it I logged in to my VScode account.
 
 https://medium.com/@truvis.thornton/visual-studio-code-embedded-reverse-shell-and-how-to-block-create-sentinel-detection-and-add-e864ebafaf6d
 
