@@ -12,9 +12,10 @@ This attack included several stages including redirect to a Visual Studio Code w
 
 ## The first stage (delivery technique)
 
-To abuse Visual Studio Code for malicious purposes, an attacker can use the portable version of code.exe (the executable file for Visual Studio Code), or an already installed version of the software. By running the command code.exe tunnel, an attacker receives a link that requires them to log into GitHub with their own account, In the beginning i downloaded VScode on Windows Target Machine, then I logged in to my GitHub account in the browser, and through it I logged in to my VScode account.
+To abuse Visual Studio Code for malicious purposes, an attacker can use the portable version of code.exe (the executable file for Visual Studio Code), or an already installed version of the software. By running the command code.exe tunnel, an attacker receives a link that requires them to log into GitHub with their own account, One of the novel techniques Stately Taurus used to bypass security protections leverages Visual Studio Code’s embedded reverse shell feature to execute arbitrary code and deliver additional payloads. Truvis Thornton described this technique in a Medium post: https://medium.com/@truvis.thornton/visual-studio-code-embedded-reverse-shell-and-how-to-block-create-sentinel-detection-and-add-e864ebafaf6d
 
-https://medium.com/@truvis.thornton/visual-studio-code-embedded-reverse-shell-and-how-to-block-create-sentinel-detection-and-add-e864ebafaf6d
+In the beginning i downloaded VScode on Windows Target Machine, then I logged in to my GitHub account in the browser, and through it I logged in to my VScode account.
+
 
 ![Screenshot from 2024-09-10 16-27-21](https://github.com/user-attachments/assets/4bb7cb38-9773-4440-85c6-e7d1a4aa8773)
 
