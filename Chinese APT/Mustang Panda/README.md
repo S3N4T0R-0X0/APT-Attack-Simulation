@@ -11,8 +11,9 @@ This attack included several stages including redirect to a Visual Studio Code w
 ![imageedit_2_2412587919](https://github.com/user-attachments/assets/ccc11e78-40c9-4573-bb3f-1854e0058a0d)
 
 ## The first stage (delivery technique)
+In the beginning, I downloaded VS Code on Windows Target Machine, then I logged in to my GitHub account in the browser, and through it I logged in to my VScode account.
 
-
+https://medium.com/@truvis.thornton/visual-studio-code-embedded-reverse-shell-and-how-to-block-create-sentinel-detection-and-add-e864ebafaf6d
 
 ![Screenshot from 2024-09-10 16-27-21](https://github.com/user-attachments/assets/4bb7cb38-9773-4440-85c6-e7d1a4aa8773)
 
@@ -22,6 +23,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________
 
+To complete the process of linking the account you got with the VS code, I open CMD in Windows and write the command `code tunnel` so that the terminal gives us the link that we will use to complete the authentication process.
 
 ![Screenshot from 2024-09-10 16-45-42](https://github.com/user-attachments/assets/baaa7152-4263-4b4f-9e7e-694f2a42f52d)
 
@@ -44,11 +46,14 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________
 
+After that, the link will appear in the CMD, which i will use and open from the attacker browser to gain control over the victim VSCode through the attacker browser.
 
-![Screenshot from 2024-09-10 17-03-20](https://github.com/user-attachments/assets/31d83d4d-aaac-47a9-bf9d-d9fc27c20ff3)
+![photo_2024-09-10_18-12-27](https://github.com/user-attachments/assets/2a7236ba-bf11-4d56-b71a-346c509f165d)
+
 
 _______________________________________________________________________________________________________________________
 
+Now I have control over the target machine through my browser in Kali Linux.
 
 ![Screenshot from 2024-09-10 17-35-16](https://github.com/user-attachments/assets/c87e61d8-fbe6-4ef7-8b29-606aab7432fe)
 
