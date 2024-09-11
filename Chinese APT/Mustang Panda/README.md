@@ -64,7 +64,7 @@ Now I have control over the target machine through my browser in Kali Linux.
 
 _______________________________________________________________________________________________________________________
 
-## The second stage (implanting technique)
+## The second stage (ToneShell Backdoor)
 
 Upon logging in, the attacker is directed to a Visual Studio Code web environment linked to the compromised machine, where they are granted the ability to run commands, execute scripts, and create new files on the infected system.
 
