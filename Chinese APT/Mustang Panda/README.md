@@ -8,6 +8,8 @@ This attack included several stages including redirect to a Visual Studio Code w
 
 1. Use Visual Studio Code's reverse shell to execute arbitrary code and deliver additional payloads.
 
+2. used ToneShell to archive files for exfiltration, protecting the RAR archives with a unique password.
+
 ![imageedit_2_2412587919](https://github.com/user-attachments/assets/ccc11e78-40c9-4573-bb3f-1854e0058a0d)
 
 ## The first stage (delivery technique)
@@ -62,7 +64,11 @@ Now I have control over the target machine through my browser in Kali Linux.
 
 _______________________________________________________________________________________________________________________
 
+## The second stage (implanting technique)
 
+Upon logging in, the attacker is directed to a Visual Studio Code web environment linked to the compromised machine, where they are granted the ability to run commands, execute scripts, and create new files on the infected system.
+
+Stately Taurus employed this method to deploy malware in compromised environments, carry out reconnaissance, and extract sensitive data. To ensure ongoing access to the reverse shell, the attacker set up persistence for a script called startcode.bat using a scheduled task that launches the shell.
 
 
 
