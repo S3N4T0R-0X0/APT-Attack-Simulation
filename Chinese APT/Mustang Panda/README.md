@@ -75,3 +75,14 @@ If you need know more about ToneShell Backdoor: https://hunt.io/blog/toneshell-b
 ![Screenshot from 2024-09-11 15-15-02](https://github.com/user-attachments/assets/c9b60539-4828-4eeb-9ea4-d319d746886b)
 
 
+To create a payload similar to the ToneShell backdoor and incorporate the functionality described, I need to ensure several aspects are covered:
+
+1. Proper Functionality: Implement SetupAndEnumWindowProps to allocate memory, set up function pointers, and enumerate window properties.
+
+2. Password Handling: Implement logic to handle a password-protected RAR archive.
+
+3. 64-bit Compatibility: Ensure that the code is suitable for 64-bit Windows systems.
+
+
+
+
