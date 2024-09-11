@@ -70,6 +70,8 @@ Upon logging in, the attacker is directed to a Visual Studio Code web environmen
 
 Stately Taurus employed this method to deploy malware in compromised environments, carry out reconnaissance, and extract sensitive data. To ensure ongoing access to the reverse shell, the attacker set up persistence for a script called startcode.bat using a scheduled task that launches the shell.
 
+If you need know more about ToneShell Backdoor: https://hunt.io/blog/toneshell-backdoor-used-to-target-attendees-of-the-iiss-defence-summit
 
+![Screenshot from 2024-09-11 15-15-02](https://github.com/user-attachments/assets/c9b60539-4828-4eeb-9ea4-d319d746886b)
 
 
