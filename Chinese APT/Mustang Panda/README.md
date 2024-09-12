@@ -110,3 +110,16 @@ Now I will use the terminal and start the execut the payload after I uploaded it
 ![Screenshot from 2024-09-12 08-32-33](https://github.com/user-attachments/assets/66eebaf2-2ff1-4aaa-afe3-af5654e9f5d6)
 
 ## The fourth stage (Data Exfiltration) over Dropbox API C2 Channe
+
+![Screenshot from 2024-09-11 15-11-47](https://github.com/user-attachments/assets/04ddd7d4-444d-45aa-b3d8-5e08a21a50f1)
+
+
+The attackers used the Dropbox C2 (Command and Control) API as a means to establish a communication channel between their payload and the attacker's server. By using Dropbox as a C2 server, attackers can hide their malicious activities among the legitimate traffic to Dropbox, making it harder for security teams to detect the threat.
+First, we need to create a Dropbox account and activate its permissions, as shown in the following figure.
+
+![Screenshot from 2024-03-12 16-10-13](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/518a643a-f8bc-455c-acdd-a6ed6fe8735a)
+
+
+After that, we will go to the settings menu to generate the access token for the Dropbox account, and this is what we will use in Dropbox C2.
+
+![photo_2024-03-12_16-22-54](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/00e41c7e-b2ac-4805-b1a9-77d00671ebf8)
