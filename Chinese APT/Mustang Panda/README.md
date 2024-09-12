@@ -131,3 +131,8 @@ In simulating this attack, I used the third profile found in BEAR-C2. https://gi
 Example: Upload a file to Dropbox
 
 ![Screenshot from 2024-09-12 09-05-57](https://github.com/user-attachments/assets/0cdd6f8f-4d65-41f3-a878-03d77becdd67)
+
+## The fifth stage (Lsass-dump by Mimikatz)
+
+
+
