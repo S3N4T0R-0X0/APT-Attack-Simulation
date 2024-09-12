@@ -97,3 +97,14 @@ ToneShell Backdoor initializes data and dynamically allocates memory for a funct
   4.Debugging: Outputs static messages for diagnostics.
 
     manual compile: x86_64-w64-mingw32-gcc -o ToneShellBackdoor.exe ToneShellBackdoor.c -lwinhttp
+    
+
+## The third stage (execution technique)
+
+Validate and process data
+
+![Screenshot from 2024-09-12 08-23-09](https://github.com/user-attachments/assets/94004d84-3beb-4b9b-84f8-52562862de81)
+
+Now I will use the terminal and start the execut the payload after I uploaded it through another feature on the web page that controls the VScode.
+
+![Screenshot from 2024-09-12 08-32-33](https://github.com/user-attachments/assets/66eebaf2-2ff1-4aaa-afe3-af5654e9f5d6)
