@@ -124,9 +124,12 @@ After that, we will go to the settings menu to generate the access token for the
 
 ![photo_2024-03-12_16-22-54](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/00e41c7e-b2ac-4805-b1a9-77d00671ebf8)
 
+
 In simulating this attack, I used the third profile found in BEAR-C2. https://github.com/S3N4T0R-0X0/BEAR
 
-![Screenshot from 2024-09-12 08-59-16](https://github.com/user-attachments/assets/fd3b2a65-8fc5-4d6b-98cd-6767cc04e56f)
+
+![Screenshot from 2024-09-12 09-35-43](https://github.com/user-attachments/assets/4651e43d-fec4-481d-bce4-4033119a5355)
+
 
 Example: Upload a file to Dropbox
 
