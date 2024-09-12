@@ -134,5 +134,5 @@ Example: Upload a file to Dropbox
 
 ## The fifth stage (Dump-Lsass by Mimikatz)
 
-
+After this I uploaded the Mimikatz.exe to  dump for lsass credentials
 
