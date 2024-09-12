@@ -139,3 +139,4 @@ Example: Upload a file to Dropbox
 
 After this I uploaded the Mimikatz.exe to  dump for lsass credentials
 
+![Screenshot from 2024-09-12 10-34-37](https://github.com/user-attachments/assets/77cee2bf-3577-4b95-9b6e-9863bcf78800)
