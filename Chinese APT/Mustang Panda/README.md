@@ -123,3 +123,11 @@ First, we need to create a Dropbox account and activate its permissions, as show
 After that, we will go to the settings menu to generate the access token for the Dropbox account, and this is what we will use in Dropbox C2.
 
 ![photo_2024-03-12_16-22-54](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/00e41c7e-b2ac-4805-b1a9-77d00671ebf8)
+
+In simulating this attack, I used the third profile found in BEAR-C2. https://github.com/S3N4T0R-0X0/BEAR
+
+![Screenshot from 2024-09-12 08-59-16](https://github.com/user-attachments/assets/fd3b2a65-8fc5-4d6b-98cd-6767cc04e56f)
+
+Example: Upload a file to Dropbox
+
+![Screenshot from 2024-09-12 09-05-57](https://github.com/user-attachments/assets/0cdd6f8f-4d65-41f3-a878-03d77becdd67)
