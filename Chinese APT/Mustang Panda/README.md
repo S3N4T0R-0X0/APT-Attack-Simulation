@@ -108,3 +108,5 @@ Validate and process data
 Now I will use the terminal and start the execut the payload after I uploaded it through another feature on the web page that controls the VScode.
 
 ![Screenshot from 2024-09-12 08-32-33](https://github.com/user-attachments/assets/66eebaf2-2ff1-4aaa-afe3-af5654e9f5d6)
+
+## The fourth stage (Data Exfiltration) over Dropbox API C2 Channe
