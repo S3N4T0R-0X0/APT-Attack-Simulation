@@ -28,14 +28,15 @@ These are all the names of the APT groups, and I simulated one attack for each g
 ## To be continued...
 
 `China`🇨🇳️
-1. Mustang Panda ✅️                    
-2. Goblin Panda
-3. Anchor Panda
-4. Deep Panda
-5. Samurai Panda
-6. Phantom Panda
-7. Sunrise Panda
-8. Ethereal Panda
+1. Mustang Panda ✅️
+2. Wicked Panda                 
+3. Goblin Panda
+4. Anchor Panda
+5. Deep Panda
+6. Samurai Panda
+7. Phantom Panda
+8. Sunrise Panda
+9. Ethereal Panda
 
 
 `North Korea`🇰🇵️
