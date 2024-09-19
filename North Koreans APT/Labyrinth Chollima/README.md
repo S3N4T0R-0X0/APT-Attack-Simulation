@@ -27,3 +27,15 @@ Since the attackers here wanted to target victims working on energy company and 
 
 ![Screenshot from 2024-09-19 15-34-00](https://github.com/user-attachments/assets/99564509-8016-49e9-aba7-925c89232f3d)
 
+
+## The Second stage (implanting technique)
+
+Now I need to download the SumatraPDF program before version 3.4.3, so I chose version 3.4.1 because after 3.4.3 of SumatraPDF implement countermeasures to prevent modified versions of this DLL from being loaded.
+
+uptodown to download the old version: https://sumatra-pdf-portable.en.uptodown.com/windows/download/62634650
+
+![photo_2024-09-19_17-52-12](https://github.com/user-attachments/assets/619252d2-0a0c-4d32-93ce-8af1c4a6e720)
+
+
+
+
