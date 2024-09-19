@@ -16,3 +16,14 @@ When accessed this way, the DLL files are loaded by the SumatraPDF.exe executabl
 1.Create job description PDF file which will be sent spear phishing.
 
 
+
+
+
+
+## The first stage (delivery technique)
+
+Since the attackers here wanted to target victims working on energy company and the aerospace industry, The attack starts with relies on legitimate job description content to target victims employed in U.S, Now I will create a pdf file with the same phishing message that the actual attackers used in their phishing campaign.
+
+
+![Screenshot from 2024-09-19 15-34-00](https://github.com/user-attachments/assets/99564509-8016-49e9-aba7-925c89232f3d)
+
