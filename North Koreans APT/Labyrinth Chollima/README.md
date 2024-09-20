@@ -15,6 +15,13 @@ When accessed this way, the DLL files are loaded by the SumatraPDF.exe executabl
 
 1.Create job description PDF file which will be sent spear phishing.
 
+2.Use Shellter to inject DLL in the Sumatra pdf.exe which I will use in the attack through the pdf file that is used in the phishing campaign.
+
+3.Executes the PDF file while simultaneously running (SumatraPDF.exe) in the background. This executable contains the DLL payload, through which I will establish the reverse connection.
+
+
+4.Waits for the incoming connection from the backdoor to data exfiltration when it is executed on the target machine.
+
 
 
 
