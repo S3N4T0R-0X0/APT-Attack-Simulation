@@ -62,6 +62,20 @@ In simulating this attack, I used the sixth C2 profile found in BEAR-C2.
 
 https://github.com/S3N4T0R-0X0/BEAR
 
+This C2-profile waits for the incoming connection from the backdoor when it is executed on the target machine.
+
+Accepts incoming connections: When a client connects, it prints the client's IP address and port.
+
+Sends the command: Encodes the command as bytes and sends it over the socket.
+
+Prompts for a command: Asks the user to enter a command to send to the connected client.
+
+Continues reading until no more data is received.
+
+Receives output from the client: Reads data in chunks of 4096 bytes.
+
+Accumulates the data into the output variable.
+
 ![Screenshot from 2024-09-20 19-14-34](https://github.com/user-attachments/assets/f77cf010-c902-4d4a-bf34-437a31c9850e)
 
 
