@@ -56,4 +56,12 @@ Now, when I open the ZIP file, it executes the PDF file while simultaneously run
 
 ![Screenshot from 2024-09-20 18-59-13](https://github.com/user-attachments/assets/89306f3f-8d52-4e9b-9cc7-99ed3d487aa3)
 
+## The fourth stage (Data Exfiltration)
+
+In simulating this attack, I used the sixth C2 profile found in BEAR-C2.
+
+https://github.com/S3N4T0R-0X0/BEAR
+
+![Screenshot from 2024-09-20 19-14-34](https://github.com/user-attachments/assets/f77cf010-c902-4d4a-bf34-437a31c9850e)
+
 
