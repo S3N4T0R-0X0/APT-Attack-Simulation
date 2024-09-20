@@ -40,8 +40,7 @@ After that I will use Shellter to inject DLL in the Sumatra pdf.exe which I will
 
 ![Screenshot from 2024-09-20 17-34-18](https://github.com/user-attachments/assets/8bcfa575-2d4f-4ba7-939e-b96d6156a75b)
 
-
-
+After injecting the malicious DLL into (SumatraPDF.exe), I will bundle it with a non-malicious (job description.pdf) file inside a ZIP archive. When the user clicks on the PDF file, it will trigger the background execution of the injected (SumatraPDF.exe), which will establish a reverse connection.
 
 
 
