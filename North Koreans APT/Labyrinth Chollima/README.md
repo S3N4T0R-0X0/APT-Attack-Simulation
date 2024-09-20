@@ -36,6 +36,14 @@ uptodown to download the old version: https://sumatra-pdf-portable.en.uptodown.c
 
 ![photo_2024-09-19_17-52-12](https://github.com/user-attachments/assets/619252d2-0a0c-4d32-93ce-8af1c4a6e720)
 
+After that I will use Shellter to inject DLL in the Sumatra pdf.exe which I will use in the attack through the pdf file that is used in the phishing campaign.
+
+![Screenshot from 2024-09-20 17-34-18](https://github.com/user-attachments/assets/8bcfa575-2d4f-4ba7-939e-b96d6156a75b)
+
+
+
+
+
 
 
 
