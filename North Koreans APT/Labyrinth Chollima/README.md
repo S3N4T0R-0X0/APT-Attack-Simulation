@@ -40,9 +40,20 @@ After that I will use Shellter to inject DLL in the Sumatra pdf.exe which I will
 
 ![Screenshot from 2024-09-20 17-34-18](https://github.com/user-attachments/assets/8bcfa575-2d4f-4ba7-939e-b96d6156a75b)
 
-After injecting the malicious DLL into (SumatraPDF.exe), I will bundle it with a non-malicious (job description.pdf) file inside a ZIP archive. When the user clicks on the PDF file, it will trigger the background execution of the injected (SumatraPDF.exe), which will establish a reverse connection.
+After injecting the malicious DLL into (SumatraPDF.exe), I will bundle it with a non-malicious (job description.pdf) file inside a ZIP archive. When the user open the ZIP file, it will trigger the background execution of the injected (SumatraPDF.exe), which will establish a reverse connection.
+
+![Screenshot from 2024-09-20 19-01-53](https://github.com/user-attachments/assets/5150035c-d570-4a6e-9455-d8124cc7c6c7)
 
 
+In a previous simulation of a Russian APT, I used a similar approach but with an image file instead of a PDF. We will replicate the same method now but without selecting the icon.
 
+![20240302_194641](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/b3b7872e-1bf9-4637-a13f-ba720c113276)
+
+
+## The third stage (execution technique)
+
+Now, when I open the ZIP file, it executes the PDF file while simultaneously running (SumatraPDF.exe) in the background. This executable contains the DLL payload, through which I will establish the reverse connection.
+
+![Screenshot from 2024-09-20 18-59-13](https://github.com/user-attachments/assets/89306f3f-8d52-4e9b-9cc7-99ed3d487aa3)
 
 
