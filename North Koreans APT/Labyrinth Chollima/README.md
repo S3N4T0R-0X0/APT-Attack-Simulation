@@ -76,6 +76,11 @@ This C2-profile waits for the incoming connection from the backdoor when it is e
 
 ## The fifth stage (DLL backdoor)
 
-
 BURNBOOK is a launcher written in C that is capable of executing an encrypted payload stored in a file and writing it to disk. 
 This file is a modified version of a legitimate DLL file used by the SumatraPDF.exe binary. The DLL contains malicious code that is triggered when the user opens the PDF lure (BAE_Vice President of Business Development.pdf) using the provided SumatraPDF.exe file.
+
+![Screenshot from 2024-09-21 12-50-16](https://github.com/user-attachments/assets/41832c2e-db12-431b-b5a0-05249d64b2f6)
+
+The BURNBOOK  includes a network connectivity check that prevents the trojanized reader from displaying the decrypted PDF lure if it cannot reach google[.]com. 
+
+![Screenshot from 2024-09-21 12-53-34](https://github.com/user-attachments/assets/517c7639-dcb9-4ac9-9491-e96163742c14)
