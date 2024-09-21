@@ -23,7 +23,7 @@ When accessed this way, the DLL files are loaded by the SumatraPDF.exe executabl
 4. Waits for the incoming connection from the backdoor to data exfiltration when it is executed on the target machine.
 
 
-
+5. Executing an encrypted payload stored in a file and writing it to disk by BURNBOOK launcher
 
 
 
