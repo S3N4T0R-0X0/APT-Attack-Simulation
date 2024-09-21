@@ -63,7 +63,7 @@ Now, when I open the ZIP file, it executes the PDF file while simultaneously run
 
 ![Screenshot from 2024-09-20 18-59-13](https://github.com/user-attachments/assets/89306f3f-8d52-4e9b-9cc7-99ed3d487aa3)
 
-## The fourth stage (Data Exfiltration)
+## The fourth stage (Backdoor Listener)
 
 In simulating this attack, I used the sixth C2 profile found in BEAR-C2.
 
@@ -74,3 +74,8 @@ This C2-profile waits for the incoming connection from the backdoor when it is e
 ![Screenshot from 2024-09-20 19-14-34](https://github.com/user-attachments/assets/f77cf010-c902-4d4a-bf34-437a31c9850e)
 
 
+## The fifth stage (DLL backdoor)
+
+
+BURNBOOK is a launcher written in C that is capable of executing an encrypted payload stored in a file and writing it to disk. 
+This file is a modified version of a legitimate DLL file used by the SumatraPDF.exe binary. The DLL contains malicious code that is triggered when the user opens the PDF lure (BAE_Vice President of Business Development.pdf) using the provided SumatraPDF.exe file.
