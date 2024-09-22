@@ -40,7 +40,7 @@ These are all the names of the APT groups, and I simulated one attack for each g
 
 
 `North Korea`🇰🇵️
-1. Labyrinth Chollima
+1. Labyrinth Chollima ✅️
 2. Stardust Chollima
 3. Silent Chollima
 4. Ricochet Chollima
