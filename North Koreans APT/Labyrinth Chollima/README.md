@@ -52,7 +52,7 @@ After injecting the malicious DLL into (SumatraPDF.exe), I will bundle it with a
 ![Screenshot from 2024-09-20 19-01-53](https://github.com/user-attachments/assets/5150035c-d570-4a6e-9455-d8124cc7c6c7)
 
 
-In a previous simulation of a Russian APT, I used a similar approach but with an image file instead of a PDF. We will replicate the same method now but without selecting the icon.
+In a previous simulation of a Russian APT, I used a similar approach but with an image file instead of a PDF. I will replicate the same method now but without selecting the icon.
 
 ![20240302_194641](https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation/assets/121706460/b3b7872e-1bf9-4637-a13f-ba720c113276)
 
